@@ -1,6 +1,6 @@
 # lora-gateway
 
-<b>Lora WAN indoor gateway designed by Adam Cigler - VJEMY.CZ</b> <br/>
+<b>Lora WAN indoor gateway designed by Adam Cigler - <a hlink="www.vjemy.cz">VJEMY.CZ</a></b> <br/>
 
 This gateway housing enables the assembly of a Rasberry PI-3 and the European IMST iC880A LoRaWAN Concentrator board (868MHz).
 
