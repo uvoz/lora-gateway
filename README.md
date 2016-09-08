@@ -1,4 +1,4 @@
-# lora-gateway
+# lora indoor gateway housing
 
 <b>Lora WAN indoor gateway designed by Adam Cigler - <a hlink="www.vjemy.cz">VJEMY.CZ</a></b> <br/>
 
@@ -8,7 +8,7 @@ It's designed to host a Rasberry PI-3 and the European IMST iC880A LoRaWAN Conce
 Pins of both boards are kept as near as possible to eliminate the need of long cables and hence reduces signal losses and interference.
 
 <b>Mounting hardware</b> <br/>
-The Raspberry can be fixed in the "electronics-interface-module" with M2 nuts and bolts(24mm length).
+The Raspberry can be fixed in the "electronics-integration-module" with M2 nuts and bolts(24mm length).
 
 <b>Magnets</b> <br/>
 Mounting the box and lid is done with 6 neodymium magents (4mm cubes).
@@ -25,8 +25,9 @@ We have tested this gateway for a month or two with The Things Network and found
 
 The short wiring helps providing a stable gateway without shielding the case. 
 
-
-To accomodate outdoor installations in off-the-shelf waterproof DIN cases, the DIN interface file can be 3d-printed to integrate the neat electronics-interface-module in such housing.
+<br/><br/>
+<b>Outdoor off-the-shelf boxes</b>
+To accomodate outdoor installations in off-the-shelf waterproof DIN cases, the DIN interface file can be 3d-printed. This enables re-usage of the neat electronics-integration-module in such housing.
 
 
 <H1>Wiring the boards and installing the gateway software</H1>
