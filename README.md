@@ -28,3 +28,9 @@ The short wiring helps providing a stable gateway without shielding the case.
 To accomodate outdoor installations in off-the-shelf waterproof DIN cases, the DIN interface file can be 3d-printed to integrate the neat electronics-interface-module in such housing.
 
 
+<H1>Wiring the boards and installing the gateway software</H1>
+The wiring between the boards and the installation procedure for this TTN compatible gateway can be found here:
+https://github.com/ttn-zh/ic880a-gateway
+It's a one -hour exercise..
+
+
