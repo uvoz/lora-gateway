@@ -6,7 +6,7 @@ This gateway housing enables the assembly of a Rasberry PI-3 and the European IM
 
 Pins of both boards are kept as near as possible. This to avoid usage of long cables to reduce signal losses and interference.
 
-<b>Hardware</b> <br/>
+<b>Mounting hardware</b> <br/>
 The Raspberry can be fixed in the "electronics-interface-module" with M2 nuts and bolts(24mm length).
 
 <b>Magnets</b> <br/>
