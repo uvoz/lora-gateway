@@ -4,10 +4,10 @@ Lora WAN indoor gateway designed by Adam Cigler - VJEMY.CZ
 This gateway housing enables the assembly of a Rasberry PI 3 and the IMST iC880A - LoRaWAN Concentrator 868MHz.
 Pins of the boards are kept as near as possible. This to avoid usage of long cables and reduce signal losses and interfearence.
 
-Hadware
+Hadware -
 The Raspberry can be fixed in the holde with M2 nuts and bolts(24mm length).
 
-Magenets
+Magenets <br/>
 Mounting the box and lid is done with 6 neodym magents (4mm cubes).
 The electronics are magneto-mounted into the box using a 12mm flat neodym in the box and a 11mm washer ring.
 On the botom of the box, 6 4mm neodym cubes are mountable to be able to snap the gateway on a magnetic surface.
