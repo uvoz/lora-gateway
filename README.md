@@ -23,4 +23,5 @@ We have tested this gateway for a month or two with The Things Network and found
 
 The short wiring provides a stable gateway without shielding the case. 
 
-To accomodate outdoor installations in waterproof DIN cases, the simple DIN interface file can be printed to integrate the electronics-interface-module in such housing.
+
+To accomodate outdoor installations in off the shelf waterproof DIN cases, the simple DIN interface file can be printed to integrate the neat electronics-interface-module in such housing.
