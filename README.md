@@ -31,6 +31,7 @@ The short wiring helps providing a stable gateway without shielding the case.
 <br/><br/>
 <b>Outdoor off-the-shelf boxes</b>
 To accomodate outdoor installations in off-the-shelf waterproof DIN cases, the DIN interface file can be 3d-printed. This enables re-usage of the neat electronics-integration-module in such housing.
+![alt tag](https://github.com/uvoz/lora-gateway/blob/master/gatewayDINsmallAnt.jpg?raw=true)
 
 
 <H1>Wiring the boards and installing the gateway software</H1>
