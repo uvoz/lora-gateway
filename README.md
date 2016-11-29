@@ -7,6 +7,9 @@ It's designed to host a Rasberry PI-3 and the European IMST iC880A LoRaWAN Conce
 
 Pins of both boards are kept as near as possible to eliminate the need of long cables and hence reduces signal losses and interference.
 
+<a href="https://github.com/uvoz/lora-gateway/blob/master/gatewayInAction.jpg"/>
+
+
 <b>Mounting hardware</b> <br/>
 The Raspberry can be fixed in the "electronics-integration-module" with M2 nuts and bolts(24mm length).
 
