@@ -37,7 +37,7 @@ To accomodate outdoor installations in off-the-shelf waterproof DIN cases, the D
 <H1>Wiring the boards and installing the gateway software</H1>
 A description of how to wirie the electronics and the perform the installation procedure for this TTN compatible gateway can be found here:
 
-https://github.com/ttn-zh/ic880a-gateway
+[https://github.com/ttn-zh/ic880a-gateway](https://github.com/ttn-zh/ic880a-gateway)
 <br/><br/>It's a one hour exercise..
 
 
