@@ -1,7 +1,7 @@
 # lora indoor gateway housing
 
-<b>designed by Adam Cigler - www.vjemy.cz</b> <br/>
-
+<b>Box designed by Adam Cigler - www.vjemy.cz</b> <br/>
+<b>Hardware integration logic designed by Bob Heida</b> <br/>
 This gateway housing can stand on a table ar hang on magnetic surfaces.
 It's designed to host a Rasberry PI-3 and the European IMST iC880A LoRaWAN Concentrator board (868MHz) as electronics.
 
